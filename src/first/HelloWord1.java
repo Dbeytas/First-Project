@@ -36,7 +36,7 @@ public class HelloWord1 {
   int total= num+num1;
   System.out.println("The total is :" +total);
   System.out.println("Have a nice day");
-  System.out.println("have better daygit ");
+  System.out.println("have better dayzxzxzxzxzgit ");
 
 
 
