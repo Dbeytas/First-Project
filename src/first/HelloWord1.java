@@ -31,11 +31,11 @@ public class HelloWord1 {
   System.out.println("num:" + num1);
   System.out.println("nums are :"+num +num1);
   System.out.println("nums are :" +num + " and " +num1);
-  System.out.println(num+num1);
   System.out.println("nums are:" +(num+num1));
   System.out.println("the sum of my num is:"+(num+num1));
   int total= num+num1;
   System.out.println("The total is :" +total);
+  System.out.println("Have a nice day");
 
 
 
