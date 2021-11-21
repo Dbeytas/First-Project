@@ -2,7 +2,7 @@ package Primitives;
 
 public class CastingPractice2 {
     public static void main(String[] args) {
-
+        //we are not the number,we are playing with the data type
         double number = 3.45;
         float fl1 =(float) number;
         long l1 =(long) fl1;
@@ -21,7 +21,7 @@ public class CastingPractice2 {
         System.out.println("count is in int type "+ count);//129;
         byte count2 =(byte) count;
         System.out.println("count is in byte type " +count2);//127
-
+        //This is more than capasity of the byte because of the memory size
 
 
 
